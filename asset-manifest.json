@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/bradsite/static/css/main.1fd80a33.css",
-    "main.js": "/bradsite/static/js/main.5a9f8887.js",
+    "main.css": "/bradsite/static/css/main.01b7694d.css",
+    "main.js": "/bradsite/static/js/main.9e1b38fe.js",
     "static/js/592.20639654.chunk.js": "/bradsite/static/js/592.20639654.chunk.js",
+    "static/media/camera1.jpg": "/bradsite/static/media/camera1.b74115f1a8f06b57c3d5.jpg",
+    "static/media/abn.jpg": "/bradsite/static/media/abn.a2079e7053170eae54b7.jpg",
     "static/media/ ogpic.png": "/bradsite/static/media/ ogpic.fb04464fe760be65b352.png",
     "index.html": "/bradsite/index.html",
-    "main.1fd80a33.css.map": "/bradsite/static/css/main.1fd80a33.css.map",
-    "main.5a9f8887.js.map": "/bradsite/static/js/main.5a9f8887.js.map",
+    "main.01b7694d.css.map": "/bradsite/static/css/main.01b7694d.css.map",
+    "main.9e1b38fe.js.map": "/bradsite/static/js/main.9e1b38fe.js.map",
     "592.20639654.chunk.js.map": "/bradsite/static/js/592.20639654.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fd80a33.css",
-    "static/js/main.5a9f8887.js"
+    "static/css/main.01b7694d.css",
+    "static/js/main.9e1b38fe.js"
   ]
 }
