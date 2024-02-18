@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "/bradsite/static/css/main.af8b7899.css",
-    "main.js": "/bradsite/static/js/main.a72baf03.js",
+    "main.css": "/bradsite/static/css/main.7c665e67.css",
+    "main.js": "/bradsite/static/js/main.b6c57cc2.js",
     "static/js/592.20639654.chunk.js": "/bradsite/static/js/592.20639654.chunk.js",
-    "static/media/camera1.jpg": "/bradsite/static/media/camera1.b74115f1a8f06b57c3d5.jpg",
-    "static/media/abn.jpg": "/bradsite/static/media/abn.a2079e7053170eae54b7.jpg",
     "static/media/ ogpic.png": "/bradsite/static/media/ ogpic.fb04464fe760be65b352.png",
+    "static/media/abn2.png": "/bradsite/static/media/abn2.00ef62fd02d39700c0a7.png",
     "index.html": "/bradsite/index.html",
-    "main.af8b7899.css.map": "/bradsite/static/css/main.af8b7899.css.map",
-    "main.a72baf03.js.map": "/bradsite/static/js/main.a72baf03.js.map",
+    "main.7c665e67.css.map": "/bradsite/static/css/main.7c665e67.css.map",
+    "main.b6c57cc2.js.map": "/bradsite/static/js/main.b6c57cc2.js.map",
     "592.20639654.chunk.js.map": "/bradsite/static/js/592.20639654.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.af8b7899.css",
-    "static/js/main.a72baf03.js"
+    "static/css/main.7c665e67.css",
+    "static/js/main.b6c57cc2.js"
   ]
 }
