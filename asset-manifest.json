@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bradsite/static/css/main.7c665e67.css",
-    "main.js": "/bradsite/static/js/main.b6c57cc2.js",
+    "main.css": "/bradsite/static/css/main.b79a7f13.css",
+    "main.js": "/bradsite/static/js/main.59af8777.js",
     "static/js/592.20639654.chunk.js": "/bradsite/static/js/592.20639654.chunk.js",
     "static/media/ ogpic.png": "/bradsite/static/media/ ogpic.fb04464fe760be65b352.png",
     "static/media/abn2.png": "/bradsite/static/media/abn2.00ef62fd02d39700c0a7.png",
     "index.html": "/bradsite/index.html",
-    "main.7c665e67.css.map": "/bradsite/static/css/main.7c665e67.css.map",
-    "main.b6c57cc2.js.map": "/bradsite/static/js/main.b6c57cc2.js.map",
+    "main.b79a7f13.css.map": "/bradsite/static/css/main.b79a7f13.css.map",
+    "main.59af8777.js.map": "/bradsite/static/js/main.59af8777.js.map",
     "592.20639654.chunk.js.map": "/bradsite/static/js/592.20639654.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c665e67.css",
-    "static/js/main.b6c57cc2.js"
+    "static/css/main.b79a7f13.css",
+    "static/js/main.59af8777.js"
   ]
 }
